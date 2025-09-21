@@ -3,6 +3,7 @@ The Transit App is a Geographic Information System developed in C++.
 
 **Overview**
 
+
 The Transit App GIS addresses a significant gap in the transportation app market by providing the first comprehensive solution that combines multi-modal transport routing with points of interest (POI) integration on a single interactive map. Unlike existing apps that focus on single transportation modes, this application seamlessly integrates biking, public transit, and driving routes while displaying relevant POIs such as cafes, restaurants, hospitals, theatres, and other landmarks.
 
 
